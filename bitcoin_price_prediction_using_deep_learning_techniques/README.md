@@ -18,3 +18,4 @@ Author : Muhammad Kaleem Ullah, Xingjia Wang
 Submitted: Monday, 17 July 2023 by Muhammad Kaleem Ullah
 
 ```
+![Picture1]([MVAresponsesurface_1.png](https://github.com/Muhammad-Kaleem-Ullah/DEDA_class_SoSe2023/blob/main/bitcoin_price_prediction_using_deep_learning_techniques/plots/history_new.png)https://github.com/Muhammad-Kaleem-Ullah/DEDA_class_SoSe2023/blob/main/bitcoin_price_prediction_using_deep_learning_techniques/plots/history_new.png)
