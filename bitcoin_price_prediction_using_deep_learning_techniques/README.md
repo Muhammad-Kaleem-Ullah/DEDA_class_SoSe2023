@@ -5,7 +5,7 @@ Topic: Bitcoin Price Prediction Using Deep Learning
 
 ```yaml
 
-Name of QuantLet: bitcoin_price_prediction_using_deep_learning_techniques
+Name of QuantLet: DEDA_class_SoSe2023_Bitcoin_Price_Prediction_Using_Deep_Learning_Techniques
 
 Published in: Time Series Analysis using Deep Learning
 
