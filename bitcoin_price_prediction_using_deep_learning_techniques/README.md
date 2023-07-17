@@ -9,7 +9,7 @@ Name of QuantLet: bitcoin_price_prediction_using_deep_learning_techniques
 
 Published in: Time Series Analysis using Deep Learning
 
-Description: 'Forecasting Cryptocurrency prices using deep learning and traditional methods of time series analysis'
+Description: Forecasting Cryptocurrency prices using deep learning and traditional methods of time series analysis
 
 Keywords: Bitcoin, time series, deep learning, comparative analysis
 
