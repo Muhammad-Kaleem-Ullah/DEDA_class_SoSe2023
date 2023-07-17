@@ -1,0 +1,11 @@
+Name of Quantlet: ForecastingBitcoinPricesusingDeepLearning
+
+Published in: DEDA Class SoSe2023
+
+Description: Forecasting Bitcoin Prices using Deep Learning
+
+Keywords: Time series, forecast, LSTM, CNN-LSTM, ARIMA, deep learning, return, ADF test
+
+Author: 'Xingjia Wang, Muhammad Kaleem Ullah'
+
+Submitted: '16.07.2023'
